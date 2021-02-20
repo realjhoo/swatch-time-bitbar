@@ -1,0 +1,11 @@
+{
+  "name": "swatch-time-bitbar",
+  "version": "1.0.0",
+  "description": "internet time plugin for bitbar",
+  "main": "beats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoover",
+  "license": "ISC"
+}
