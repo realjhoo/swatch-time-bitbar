@@ -11,6 +11,6 @@ Although some claim that UTC already serves the purpose of international time, t
 
 If the metric system was a good idea 200 years ago, then it is a good idea today. And 200 hundred years ago, decimal time was proposed along with the meter and the liter. The time has come (again). 
 
-This project works with Bitbar/Swiftbar to display the current Internet Time to a precision of .millibeats in your Mac's menu bar.
+This project works with Bitbar/Swiftbar to display the current Internet Time to a precision of .centibeats in your Mac's menu bar.
 
 Enjoy.
